@@ -1,3 +1,5 @@
 #Programa para mostrar as notas que formam o acorde selecionado.
 #Informar o Acorde desejado Ex: A, B, C, D, E, F ou G.
-
+nota = input("qual a nota do acorde"?)
+if nota = "A"
+print("1:LA ,3:DO#,E)"
